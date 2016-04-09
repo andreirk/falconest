@@ -14,7 +14,7 @@
  * Date: 4/7/2016
  * Time: 4:28 PM
  */
-require_once 'funcitons.php';
+require_once 'functions.php';
 
 createTable('members',
             'user VARCHAR(16),
