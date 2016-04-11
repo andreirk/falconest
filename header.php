@@ -32,10 +32,10 @@ if($loggedin){
     echo "<div><ul>
         <li><a href='members.php?view=$user'>Home</a></li>
         <li><a href='members.php'>Members</a></li>
-        <li><a href='3.php'></a>Friends</li>
-        <li><a href='4.php'></a>Messages</li>
-        <li><a href='5.php'></a>Edit Profile</li>
-        <li><a href='5.php'></a>Log out</li>
+        <li><a href='friends.php'>Friends</a></li>
+        <li><a href='messages.php'>Messages</a></li>
+        <li><a href='profile.php'>Edit Profile</a></li>
+        <li><a href='logout.php'>Log out</a></li>
         </ul> <br>";
 
 }else{
